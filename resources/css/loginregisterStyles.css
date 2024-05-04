@@ -1,0 +1,11 @@
+@import url('./utilities.css');
+
+._mainContainer{
+    background-color: rgba(47, 53, 58, 0.5);
+    min-height: calc(100vh - 167px)
+}
+
+._formContainer{
+    min-width: 45%;
+    background-color: #FFFFFF;
+}

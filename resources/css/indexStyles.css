@@ -1,0 +1,10 @@
+@import url('./utilities.css');
+
+#plantillasContainer{
+    width: 80%;
+}
+
+._imgContainer{
+    background-color: #f3f3f3c5;
+    max-height: 255px !important;
+}

@@ -1,0 +1,47 @@
+@import url('./utilities.css');
+
+._headerTitle{
+    background-color: #2F353A;
+    border-bottom: 3px solid #24BFD6;
+    color: #FFF;
+    font-weight: bold;
+}
+
+._headerBody{
+    background-color: #000;
+    border-bottom: 3px solid #24BFD6;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.card .card-body{
+    background-color: #f3f3f3c5;
+}
+
+.card .card-body .card-body{
+    background-color: #DEDFE0;
+}
+
+table td{
+    border-bottom: 1px solid #FFF !important;
+}
+
+._cardPlataforma{
+    width: 145px;
+    height: fit-content;
+}
+
+._cardPlataforma .card-body{
+    max-height: 50px !important;
+    border-top: 3px solid #24BFD6;
+    color: #FFF;
+    background-color: #0C6291 !important;
+}
+
+.carousel-item{
+    height: 340px !important;
+}
+
+/*.carousel-item::before{
+    background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.5));
+}*/
